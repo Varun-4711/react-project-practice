@@ -40,7 +40,6 @@ This will open the app in your browser at `http://localhost:5173`.
 
 - Simple React components to structure the UI
 - Custom CSS for styling the project
-- Responsive design to ensure compatibility across devices
 
 ## Acknowledgements
 
