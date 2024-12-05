@@ -1,7 +1,5 @@
 ![image](https://github.com/user-attachments/assets/74c6e7a3-8484-4c9f-bdff-9f153964180b)
 
-Thanks for sharing the image! Based on the provided project structure, here's an updated version of the `README.md` file:
-
 ```markdown
 # React JS Project with CSS Styling
 
