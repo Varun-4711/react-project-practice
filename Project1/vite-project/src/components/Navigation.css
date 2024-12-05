@@ -1,0 +1,34 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 72px;
+}
+
+nav img{
+    cursor: pointer;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 24px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+
+.nav_container{
+    margin:15px 85px;
+}
+
+nav button{
+    all: unset;
+    background-color: #D01C28;
+    color: white;
+    width: 75px;
+    height: 31px;
+    text-align: center;
+    cursor: pointer;
+}
