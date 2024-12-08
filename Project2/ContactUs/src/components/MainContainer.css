@@ -1,0 +1,68 @@
+.main_heading {
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.mainContainer{
+    max-width: 1000px;
+    margin: auto;
+} 
+
+.mainContainer p {
+    color: var(--GRAY, #5A5959);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.main_content{
+    display: flex;
+    justify-content: start;
+    max-width: 1161px;
+    gap: 81px;
+}
+
+.main_content img{
+    height: calc(100vh-800px);
+}
+
+.support_call_chat{
+    display: flex;
+    gap: 32px;
+}
+
+.main_forms{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 50px;
+}
+
+.main_forms label{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    position: relative;
+    top: 30px;
+    left: 20px;
+    background-color: white;
+    width: 55px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.name_email{
+    width: 440px;
+    height: 40px;
+    width: auto;
+}
+
+.submit_button_div{
+    display: flex;
+    justify-content: end;
+}
